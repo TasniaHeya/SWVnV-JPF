@@ -5,6 +5,7 @@ Java path finder is a model checking framework for java. This can be used as a s
 Folder Structure
 This section explains the folder structures.
 
+```
 +-- Apps: This folder contains the apps that were used to run the model checking with jpf.
 +-- jpf-core: This folder contains the jpf core cloned from the jpf-core github repository.
      +-- bin: Contains the executables
@@ -17,7 +18,7 @@ This section explains the folder structures.
   +-- README.md: This is the mark down version of the report to be read by github repository (For a simplified view).
   +-- Report.pdf: pdf version of this report is also available here in this file.
 
-
+```
 
 # Steps for model checking using JPF
 The following steps were executed to run the simple java application.
